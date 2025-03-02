@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToboStudyGroup", "ToboStudyGroup\ToboStudyGroup.csproj", "{4423DA6A-2DCB-48A3-BF9E-7DF6975B823A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4423DA6A-2DCB-48A3-BF9E-7DF6975B823A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4423DA6A-2DCB-48A3-BF9E-7DF6975B823A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4423DA6A-2DCB-48A3-BF9E-7DF6975B823A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4423DA6A-2DCB-48A3-BF9E-7DF6975B823A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8589A40-54A0-496C-99EC-C06BCC1DC2E3}
+	EndGlobalSection
+EndGlobal
