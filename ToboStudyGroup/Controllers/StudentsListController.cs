@@ -10,7 +10,7 @@ namespace ToboStudyGroup.Controllers
     public class StudentsListController : Controller
     {
         // GET: StudentsList
-        public ActionResult Index()
+        public ActionResult StudyGroupList()
         {
             List<StudentsList> students = new List<StudentsList>
             {
